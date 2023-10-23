@@ -4,7 +4,7 @@
 
 On the web portal, go to Locations, find the location you're looking for, and click Edit (pencil icon). The Reader Id(s) field is towards the bottom of the Edit interface. Reader IDs must be alphanumeric; you can add multiple reader IDs, comma-separated.
 
-![updating reader ID](https://github.com/TEC-RFID/rfid-asset-api/blob/main/images/readerid.gif?raw=true)
+![updating reader ID](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/images/setreaderid.gif?raw=true)
 
 ## Update Asset Location By Reader ID
 
