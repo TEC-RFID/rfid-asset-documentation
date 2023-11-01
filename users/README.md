@@ -13,3 +13,5 @@
 [Stocktakes](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/stocktakes.md)
 
 [Setting Up And Using Fixed Readers](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/fixedreaders.md)
+
+[Alerts](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/alerts.md)
