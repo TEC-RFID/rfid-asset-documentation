@@ -80,4 +80,12 @@ Here you can hide the default system asset fields you don't need, mark them as m
 
 ### User Roles
 
-t
+Here you can create custom sets of user permissions--just use the toggles to specify exactly what users can do to each module, or select Enable All for full admin access. By default, your Asset system will have two standard permissions sets: one for admin access, and one for low-level users who can only manage assets, not setup. You can modify or add to these as required. 
+
+### Print Templates
+
+Under development: watch this space. 
+
+### API Key
+
+For API documentation, [click here](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/api/README.md). 
