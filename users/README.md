@@ -8,6 +8,8 @@
 
 [Mass Importing Assets](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/importingassets.md)
 
+[Viewing And Exporting Assets (Web)](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/exportingassets.md)
+
 [Locating Assets (App)](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/findingassets.md)
 
 [Bulk Updates (App)](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/bulkupdates.md)
