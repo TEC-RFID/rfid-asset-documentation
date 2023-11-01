@@ -76,7 +76,7 @@ Here you can hide the default system asset fields you don't need, mark them as m
   - Assign it to a specific asset type by choosing an option from the dropdown; or, if you want it to appear on all assets regardless of type, tick 'is global field'.
   - To make the field mandatory*, tick 'is required field'.
 
-* A note on mandatory fields: we suggest using these sparingly--only use them in situations where the user will always have the required information to fill in the field. Otherwise, you tend to end up with nonsense data.
+\* A note on mandatory fields: we suggest using these sparingly--only use them in situations where the user will always have the required information to fill in the field. Otherwise, you tend to end up with nonsense data.
 
 ### User Roles
 
