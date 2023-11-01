@@ -10,6 +10,8 @@
 
 [Locating Assets (App)](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/findingassets.md)
 
+[Bulk Updates (App)](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/bulkupdates.md)
+
 [Stocktakes](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/stocktakes.md)
 
 [Setting Up And Using Fixed Readers](https://github.com/TEC-RFID/rfid-asset-documentation/blob/main/users/fixedreaders.md)
